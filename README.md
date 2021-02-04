@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Ali. I'm a Software Engineer and Designer.
-- 🔭 I’m currently working on [Kamel](https://github.com/alialbaali/Kamel) and learning [Rust]().
+- 🔭 I’m currently working on [Kamel](https://github.com/alialbaali/Kamel) and learning [Rust](https://www.rust-lang.org/).
 
 ```kotlin
 val ali = developer {
