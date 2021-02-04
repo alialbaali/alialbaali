@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Ali. I'm a Software Engineer and Designer.
-🔭 I’m currently working on [Noto](https://github.com/alialbaali/Noto) and my university project [Confy](https://github.com/alialbaali/Confy)
+- 🔭 I’m currently working on [Kamel](https://github.com/alialbaali/Kamel) and learning [Rust]().
 
 ```kotlin
 val ali = developer {
@@ -7,7 +7,7 @@ val ali = developer {
         name = "Ali Albaali"
     }
     projects {
-        recent = listOf(Noto, Confy)
+        currently = listOf(Kamel)
     }
 }
 ```
