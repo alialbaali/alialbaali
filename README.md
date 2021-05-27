@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ali. I'm a Software Engineer and Designer.
+<!-- # Hi there 👋 I'm Ali. I'm a Software Engineer and Designer.
 - 🔭 I’m currently working on [Kamel](https://github.com/alialbaali/Kamel) and learning [Rust](https://www.rust-lang.org/).
 
 ```kotlin
@@ -10,7 +10,7 @@ val ali = developer {
         currently = listOf(Kamel)
     }
 }
-```
+``` -->
 
 <!--
 **alialbaali/alialbaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
