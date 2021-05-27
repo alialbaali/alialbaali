@@ -1,5 +1,5 @@
-#### Hi there 👋 I'm Ali. I'm a software engineer and designer.
-#### I’m currently learning [Rust](https://www.rust-lang.org/), and I enjoy spending my time building creative things.
+### Hi there 👋 I'm Ali. I'm a software engineer and designer.
+### I’m currently learning [Rust](https://www.rust-lang.org/), and I enjoy spending my time building creative things.
 <!--
 **alialbaali/alialbaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
