@@ -2,14 +2,14 @@
 
 ### I'm a Software Engineer & Designer. Currently, I'm working on [Noto](https://github.com/alialbaali/Noto), and learning [Rust](https://www.rust-lang.org/). I like to spend my time building creative things.
 
-## My Skills
+## My Skills 👨🏻‍💻
 
 <div align="center">
 <img src="images/Skills-light.svg#gh-dark-mode-only" alt="Android" height="300">
 <img src="images/Skills-dark.svg#gh-light-mode-only" alt="Android" height="300">
 </div>
 
-## My Stats
+## My Stats 📊
 
 <div align="center">
 
@@ -31,4 +31,29 @@
 
 </div>
 
-### Take it sleazy.
+## My Links 🔗
+
+<div align="center">
+
+<a href="https://twitter.com/ali_albaali">
+  <img align="center" src="images/Twitter.svg" height="48"/>
+</a>
+
+<a href="https://www.instagram.com/ali.albaali/">
+  <img align="center" src="images/Instagram.svg" height="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alialbaali/">
+  <img align="center" src="images/Linkedin.svg" height="48"/>
+</a>
+
+<a href="https://www.reddit.com/user/EnigmaGram">
+  <img align="center" src="images/Reddit.svg" height="48" />
+</a>
+
+<h3>
+Take it sleazy.
+</h3>
+
+</div>
+
