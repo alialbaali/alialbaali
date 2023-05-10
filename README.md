@@ -1,6 +1,12 @@
 # Hi there, I'm  <a href="https://alialbaali.com">Ali</a> 👋🏻
 
-### I'm a Software Engineer & Designer. Currently, I'm working on [Noto](https://github.com/alialbaali/Noto), and learning [Rust](https://www.rust-lang.org/). I like to spend my time building creative things.
+<div align="center">
+
+<h3>
+ I'm a Software Engineer & Designer. Currently, I'm working on <a href="https://github.com/alialbaali/Noto">Noto</a>, and learning <a href="https://www.rust-lang.org/">Rust</a>. I like to spend my time building creative things.
+</h3>
+
+</div>
 
 ## My Skills 👨🏻‍💻
 
