@@ -53,10 +53,6 @@
   <img align="center" src="images/Linkedin.svg" height="48"/>
 </a>
 
-<a href="https://www.reddit.com/user/EnigmaGram">
-  <img align="center" src="images/Reddit.svg" height="48" />
-</a>
-
 <h3>
 Take it sleazy.
 </h3>
