@@ -45,12 +45,20 @@
   <img align="center" src="images/Twitter.svg" height="48"/>
 </a>
 
-<a href="https://www.instagram.com/ali.albaali/">
+<a href="https://www.instagram.com/ali.albaali">
   <img align="center" src="images/Instagram.svg" height="48"/>
 </a>
 
-<a href="https://www.linkedin.com/in/alialbaali/">
+<a href="https://www.linkedin.com/in/alialbaali">
   <img align="center" src="images/Linkedin.svg" height="48"/>
+</a>
+
+<a href="https://mastodon.social/@alialbaali#gh-light-mode-only">
+  <img align="center" src="images/Mastodon-Dark.svg" height="48"/>
+</a>
+
+<a href="https://mastodon.social/@alialbaali#gh-dark-mode-only">
+  <img align="center" src="images/Mastodon-Light.svg" height="48"/>
 </a>
 
 <h3>
