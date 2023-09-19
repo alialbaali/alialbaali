@@ -3,7 +3,7 @@
 <div>
 
 <h3>
- I'm a Software Engineer and UI/UX <Designe></Designe>r. Currently, I'm working on <a href="https://github.com/alialbaali/Noto">Noto</a>, and learning <a href="https://www.rust-lang.org/">Rust</a>. I like to spend my time building creative things.
+I'm a Software Engineer and UI/UX Designer. Currently, I'm working on <a href="https://github.com/alialbaali/Noto">Noto</a>, and learning <a href="https://www.rust-lang.org/">Rust</a>. I like to spend my time building creative things.
 </h3>
 
 </div>
