@@ -11,8 +11,8 @@
 ## My Skills 👨🏻‍💻
 
 <div align="center">
-<img src="images/Skills-light.svg#gh-dark-mode-only" alt="Android" height="300">
-<img src="images/Skills-dark.svg#gh-light-mode-only" alt="Android" height="300">
+<img src="images/Skills-Light.svg#gh-dark-mode-only" alt="Android" height="300">
+<img src="images/Skills-Dark.svg#gh-light-mode-only" alt="Android" height="300">
 </div>
 
 ## My Stats 📊
