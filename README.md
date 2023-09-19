@@ -12,6 +12,8 @@
 
 <div align="center">
 
+<h4>Programming Languages</h4>
+
 <div align="center">
 <img src="images/Kotlin-Dark.svg#gh-light-mode-only" alt="Kotlin" height="64">
 <img src="images/Kotlin-Light.svg#gh-dark-mode-only" alt="Kotlin" height="64">
@@ -22,12 +24,17 @@
 <img src="images/Python-Light.svg#gh-dark-mode-only" alt="Python" height="64">
 </div>
 
+<h4>Other Languages</h4>
+
 <div align="center">
 <img src="images/HTML.svg" alt="HTML" height="64">
 <img src="images/CSS.svg" alt="CSS" height="64">
 <img src="images/Postgres-Dark.svg#gh-light-mode-only" alt="Postgres" height="64">
 <img src="images/Postgres-Light.svg#gh-dark-mode-only" alt="Postgres" height="64">
 </div>
+
+<h4>Frameworks</h4>
+
 <div align="center">
 <img src="images/Android-Dark.svg#gh-light-mode-only" alt="Android" height="64">
 <img src="images/Android-Light.svg#gh-dark-mode-only" alt="Android" height="64">
@@ -40,6 +47,8 @@
 <img src="images/Flask-Dark.svg#gh-light-mode-only" alt="Flask" height="64">
 <img src="images/Flask-Light.svg#gh-dark-mode-only" alt="Flask" height="64">
 </div>
+
+<h4>Platforms</h4>
 
 <div align="center">
 <img src="images/GitHub-Dark.svg#gh-light-mode-only" alt="GitHub" height="64">
@@ -54,6 +63,8 @@
 <img src="images/Maven-Light.svg#gh-dark-mode-only" alt="Maven" height="64">
 </div>
 
+<h4>Tools</h4>
+
 <div align="center">
 <img src="images/AndroidStudio-Dark.svg#gh-light-mode-only" alt="AndroidStudio" height="64">
 <img src="images/AndroidStudio-Light.svg#gh-dark-mode-only" alt="AndroidStudio" height="64">
@@ -64,6 +75,8 @@
 <img src="images/Linux-Dark.svg#gh-light-mode-only" alt="Linux" height="64">
 <img src="images/Linux-Light.svg#gh-dark-mode-only" alt="Linux" height="64">
 </div>
+
+<h4>Design</h4>
 
 <div align="center">
 <img src="images/Figma-Dark.svg#gh-light-mode-only" alt="Figma" height="64">
