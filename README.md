@@ -3,7 +3,7 @@
 <div>
 
 <h3>
- I'm a Software Engineer & Designer. Currently, I'm working on <a href="https://github.com/alialbaali/Noto">Noto</a>, and learning <a href="https://www.rust-lang.org/">Rust</a>. I like to spend my time building creative things.
+ I'm a Software Engineer and UI/UX <Designe></Designe>r. Currently, I'm working on <a href="https://github.com/alialbaali/Noto">Noto</a>, and learning <a href="https://www.rust-lang.org/">Rust</a>. I like to spend my time building creative things.
 </h3>
 
 </div>
@@ -114,23 +114,23 @@
 <div>
 
 <a href="https://twitter.com/ali_albaali">
-  <img src="images/Twitter.svg" height="48"/>
+  <img src="images/Twitter.svg" height="64"/>
 </a>
 
 <a href="https://www.instagram.com/ali.albaali">
-  <img src="images/Instagram.svg" height="48"/>
+  <img src="images/Instagram.svg" height="64"/>
 </a>
 
 <a href="https://www.linkedin.com/in/alialbaali">
-  <img src="images/Linkedin.svg" height="48"/>
+  <img src="images/Linkedin.svg" height="64"/>
 </a>
 
 <a href="https://mastodon.social/@alialbaali#gh-light-mode-only">
-  <img src="images/Mastodon-Dark.svg" height="48"/>
+  <img src="images/Mastodon-Dark.svg" height="64"/>
 </a>
 
 <a href="https://mastodon.social/@alialbaali#gh-dark-mode-only">
-  <img src="images/Mastodon-Light.svg" height="48"/>
+  <img src="images/Mastodon-Light.svg" height="64"/>
 </a>
 
 <h3>
