@@ -109,7 +109,7 @@
 
 </div>
 
-## My Links 🔗
+## My Socials 🔗
 
 <div>
 
