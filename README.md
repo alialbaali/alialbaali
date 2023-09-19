@@ -10,11 +10,11 @@
 
 ## My Skills 👨🏻‍💻
 
-<div align="center">
+<div>
 
 <h3>Programming Languages</h3>
 
-<div align="center">
+<div>
 <img src="images/Kotlin-Dark.svg#gh-light-mode-only" alt="Kotlin" height="64">
 <img src="images/Kotlin-Light.svg#gh-dark-mode-only" alt="Kotlin" height="64">
 <img src="images/Rust.svg" alt="Rust" height="64">
@@ -26,7 +26,7 @@
 
 <h3>Other Languages</h3>
 
-<div align="center">
+<div>
 <img src="images/HTML.svg" alt="HTML" height="64">
 <img src="images/CSS.svg" alt="CSS" height="64">
 <img src="images/Postgres-Dark.svg#gh-light-mode-only" alt="Postgres" height="64">
@@ -35,7 +35,7 @@
 
 <h3>Frameworks</h3>
 
-<div align="center">
+<div>
 <img src="images/Android-Dark.svg#gh-light-mode-only" alt="Android" height="64">
 <img src="images/Android-Light.svg#gh-dark-mode-only" alt="Android" height="64">
 <img src="images/Compose-Dark.svg#gh-light-mode-only" alt="Compose" height="64">
@@ -50,7 +50,7 @@
 
 <h3>Platforms</h3>
 
-<div align="center">
+<div>
 <img src="images/GitHub-Dark.svg#gh-light-mode-only" alt="GitHub" height="64">
 <img src="images/GitHub-Light.svg#gh-dark-mode-only" alt="GitHub" height="64">
 <img src="images/Netlify-Dark.svg#gh-light-mode-only" alt="Netlify" height="64">
@@ -65,7 +65,7 @@
 
 <h3>Tools</h3>
 
-<div align="center">
+<div>
 <img src="images/AndroidStudio-Dark.svg#gh-light-mode-only" alt="AndroidStudio" height="64">
 <img src="images/AndroidStudio-Light.svg#gh-dark-mode-only" alt="AndroidStudio" height="64">
 <img src="images/IntelliJ-Dark.svg#gh-light-mode-only" alt="IntelliJ" height="64">
@@ -78,7 +78,7 @@
 
 <h3>Design</h3>
 
-<div align="center">
+<div>
 <img src="images/Figma-Dark.svg#gh-light-mode-only" alt="Figma" height="64">
 <img src="images/Figma-Light.svg#gh-dark-mode-only" alt="Figma" height="64">
 <img src="images/Inkscape-Dark.svg#gh-light-mode-only" alt="Inkscape" height="64">
